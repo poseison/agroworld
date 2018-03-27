@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  owner: MyString
+  photo1: MyString
+  photo2: MyString
+  photo3: MyString
+
+two:
+  owner: MyString
+  photo1: MyString
+  photo2: MyString
+  photo3: MyString
